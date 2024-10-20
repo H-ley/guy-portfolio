@@ -144,6 +144,14 @@ export const experience: ExperienceType[] = [
   },
 ];
 
+export const SkillBars: SkillBarsType[] = [
+  
+];
+
+export const projects: ProjectType[] = [
+  
+];
+
 export const feedbacks: FeedbackType[] = [
   
 ];
