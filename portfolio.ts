@@ -144,7 +144,9 @@ export const experience: ExperienceType[] = [
   },
 ];
 
-
+export const feedbacks: FeedbackType[] = [
+  
+];
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
   title: "Guy-Dorlant MOUBAGHOU",
